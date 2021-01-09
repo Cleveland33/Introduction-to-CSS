@@ -1,0 +1,39 @@
+body {
+    background-color: #008891;
+    }
+
+h1{
+    color: #a3ddcb;
+}
+
+h3{
+    color: #a3ddcb;
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+td {
+    text-align: center;
+  }
+ 
+ul {
+    text-align: justify;
+  }  
+   
+hr{
+    border-style: none;
+    border-top-style: inset;  
+    border-color: #444747;
+    border-width: 2px;
+    
+    }
+
+img{
+    height: 250px;
+    }
+
+footer{
+    text-align: justify;
+}
+
+
